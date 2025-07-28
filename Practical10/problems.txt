@@ -1,0 +1,9 @@
+Q: How has the difference in DALYs between China and the UK changed over time?
+
+Line number in dalys.py: 65
+
+Discussion: 
+From the line plot and numerical difference, we observe that China consistently had higher DALYs than the UK. 
+However, the gap between the two has decreased gradually over time. This trend may reflect improvements 
+in healthcare access and disease prevention in China over the decades, especially after the early 2000s.
+The array difference printed at the end of the script shows how the DALYs gap evolved year by year.
